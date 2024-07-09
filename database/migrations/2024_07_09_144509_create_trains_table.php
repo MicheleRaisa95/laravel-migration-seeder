@@ -28,3 +28,4 @@ class CreateTrainsTable extends Migration
         Schema::dropIfExists('trains');
     }
 }
+
